@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: overlay;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
